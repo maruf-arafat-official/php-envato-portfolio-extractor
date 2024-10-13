@@ -52,7 +52,7 @@ use MAO\EnvatoExtractor;
 
 try {
     $envatoExtractor = new EnvatoExtractor('https://themeforest.net/user/themestransmit/portfolio');
-    $products = $envatoExtractor->getProducts();
+    $products = $envatoExtractor->getPortfolios();
 
     print_r($products);
 } catch (\Exception $e) {
@@ -78,6 +78,7 @@ Array
                 )
             [sales] => 1,000 Sales
             [price] => $29
+            ["url"] => https://themeforest.net/item/{portfolio}
         )
     ...
 )
