@@ -1,0 +1,14 @@
+.idea
+*.*~
+vendor
+node_modules
+build
+dist
+coverage
+*.log
+*.lock
+*.swp
+*.swo
+*.tgz
+*.cache
+index.php

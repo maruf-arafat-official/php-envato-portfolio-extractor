@@ -1,0 +1,22 @@
+{
+    "name": "marufarafat/envato-extractor",
+    "description": "A PHP package to extract product details from an Envato portfolio.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MAO\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    }
+}
