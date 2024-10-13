@@ -25,13 +25,13 @@ class EnvatoExtractorTest extends TestCase
     public function testGetProductsReturnsArray()
     {
         $extractor = new EnvatoExtractor($this->validUrl);
-        $products = $extractor->getProducts();
+        $portfolios = $extractor->getPortfolios();
 
         // Check that the returned value is an array
-        $this->assertIsArray($products);
+        $this->assertIsArray($portfolios);
 
         // Check that the products array is not empty
-        $this->assertNotEmpty($products);
+        $this->assertNotEmpty($portfolios);
     }
 
     /**
