@@ -1,5 +1,5 @@
 {
-    "name": "marufarafat/envato-extractor",
+    "name": "mao/envato-extractor",
     "description": "A PHP package to extract product details from an Envato portfolio.",
     "type": "library",
     "license": "MIT",

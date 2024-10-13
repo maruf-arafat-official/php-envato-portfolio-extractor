@@ -119,15 +119,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-```markdown
-
-### Explanation of Techniques Used:
-- **Clear Section Headings:** Organizes content for easy navigation.
-- **Table of Contents:** Provides quick access to different sections.
-- **Code Blocks:** Uses triple backticks for code samples, improving readability.
-- **Contribution Guidelines:** Encourages community involvement.
-- **Licensing Information:** Clearly states the project's license, important for open-source projects.
-
-Feel free to adjust the text and details as needed for your project!
-```
-
