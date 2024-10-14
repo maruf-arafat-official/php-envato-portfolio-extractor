@@ -71,14 +71,14 @@ Array
         (
             [heading] => Example Product
             [preview] => https://preview-url
-            [Categories] => Array
+            [categories] => Array
                 (
                     [0] => Web Design
                     [1] => UI/UX
                 )
             [sales] => 1,000 Sales
             [price] => $29
-            ["url"] => https://themeforest.net/item/{portfolio}
+            [url] => https://themeforest.net/item/{portfolio}
         )
     ...
 )
